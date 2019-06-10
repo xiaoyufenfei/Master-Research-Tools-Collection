@@ -1,4 +1,4 @@
-#### 关于 LaTeX 的使用技巧
+### 关于 LaTeX 的使用技巧
 
 - Windows 10 系统安装 TeX Live、配置编辑器的相关操作。
   建议参考 [**TeX套装下载**](http://www.latexstudio.net/page/texsoftware) 以及 [**学习资料**](http://www.latexstudio.net/page/tex-documents) 
@@ -16,18 +16,18 @@
 - 用LaTeX绘制贝叶斯网络、图模型和框架 [**awesome-latex-drawing**](https://github.com/xinychen/awesome-latex-drawing)
 - Beamer LaTex演示工具 [**beamer**](https://github.com/josephwright/beamer)
 
-#### 极致的文献参考检索与知识组织管理软件 [Citavi](https://www.softhead-citavi.com/)
+### 极致的文献参考检索与知识组织管理软件 [Citavi](https://www.softhead-citavi.com/)
 
 - Citavi 6 中文官网：[https://www.softhead-citavi.com](http://link.zhihu.com/?target=https%3A//www.softhead-citavi.com/)
 - Citavi 6 中文论坛：[http://forum.softhead-citavi.com](http://link.zhihu.com/?target=http%3A//forum.softhead-citavi.com/)
 - Citavi 中国客户服务Q群：255676258
 - Citavi、Endnote、Mendeley [功能大比拼](https://zhuanlan.zhihu.com/p/28214449) 
 
-#### 极致简洁的markdown编辑器 [Typora]( http://www.typora.io)
+### 极致简洁的markdown编辑器 [Typora]( http://www.typora.io)
 
 - 一款轻便简洁的Markdown编辑器，支持即时渲染技术
 
-#### SSH客户端神器 [MobaXterm](https://mobaxterm.mobatek.net/) 
+### SSH客户端神器 [MobaXterm](https://mobaxterm.mobatek.net/) 
 
 - 一款增强型终端、X 服务器和 Unix 命令集（GNU/ Cygwin）工具箱
 - 很强的扩展能力
