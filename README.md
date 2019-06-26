@@ -43,6 +43,7 @@
 
 - [Awesome Resume for Chinese](https://github.com/dyweb/awesome-resume-for-chinese)
 - [cv_resume](https://github.com/geekplux/cv_resume)
+- [Latex-Beamer-Template](https://github.com/SunYanCN/Latex-Beamer-Template)
 
 
 
