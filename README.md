@@ -32,5 +32,17 @@
 - 一款增强型终端、X 服务器和 Unix 命令集（GNU/ Cygwin）工具箱
 - 很强的扩展能力
 
+### Linux and MacOS github单文件下载工具[gitdir](https://github.com/sdushantha/gitdir)
+
+### PowerPoint的LaTeX插件
+
+- A LaTeX add-in for PowerPoint - by  [Jeremy Howard](https://www.fast.ai/2019/06/17/latex-ppt/)
+- [latex-ppt](https://github.com/jph00/latex-ppt/)
+
+### Latex制作简历
+
+- [Awesome Resume for Chinese](https://github.com/dyweb/awesome-resume-for-chinese)
+- [cv_resume](https://github.com/geekplux/cv_resume)
+
 
 
