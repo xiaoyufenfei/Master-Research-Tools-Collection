@@ -49,11 +49,8 @@
 ### Latex制作简历
 
 - [Awesome Resume for Chinese](https://github.com/dyweb/awesome-resume-for-chinese)
-
 - [cv_resume](https://github.com/geekplux/cv_resume)
-
 - [Latex-Beamer-Template](https://github.com/SunYanCN/Latex-Beamer-Template)
-
 - [resume](https://github.com/billryan/resume) 
 
 ### git的使用技巧
