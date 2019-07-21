@@ -12,6 +12,7 @@
 - LaTeX相关资源大列表 [**awesome-LaTeX**](https://github.com/egeerardyn/awesome-LaTeX)
 - 为arXiv提交收集和整理LaTeX资源文件 [**arxiv-collector**](https://github.com/dougalsutherland/arxiv-collector)
 - 科技论文写作最佳实践&技巧与提示 [**paper-tips-and-tricks**](https://github.com/Wookai/paper-tips-and-tricks)
+- 论文写作与资料分享 [**Research-Method**](https://github.com/secdr/research-method)
 - 用LaTeX绘制贝叶斯网络、图模型和框架 [**awesome-latex-drawing**](https://github.com/xinychen/awesome-latex-drawing)
 - Beamer LaTex演示工具 [**beamer**](https://github.com/josephwright/beamer)
 - The Latex version of Mike Morrison's [**"better poster" template**](https://github.com/LanaSina/better_poster_latex) 
@@ -55,4 +56,3 @@
 
 ### git的使用技巧
 - [git-Tips](https://github.com/521xueweihan/git-tips)
-
