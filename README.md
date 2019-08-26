@@ -16,13 +16,12 @@
 - 用LaTeX绘制贝叶斯网络、图模型和框架 [**awesome-latex-drawing**](https://github.com/xinychen/awesome-latex-drawing)
 - Beamer LaTex演示工具 [**beamer**](https://github.com/josephwright/beamer)
 - The Latex version of Mike Morrison's [**"better poster" template**](https://github.com/LanaSina/better_poster_latex) 
+- Complete collection of my PGF/TikZ figures. [**TikZ**](https://github.com/PetarV-/TikZ)  
 
 ### LaTeX制作会议Poster样例等
 
 - [LaTex Poster for TOM-Net (CVPR 2018)](https://github.com/guanyingc/TOM-Net_Poster_LaTex)
 - [LaTex Poster for SDPS-Net (CVPR 2019)](https://github.com/guanyingc/SDPS-Net_Poster_LaTex)
-
-
 
 ### 极致的文献参考检索与知识组织管理软件 [Citavi](https://www.softhead-citavi.com/)
 
@@ -56,3 +55,8 @@
 
 ### git的使用技巧
 - [git-Tips](https://github.com/521xueweihan/git-tips)
+
+### Some tips for research and coding ！！！
+
+- [research-and-coding](https://github.com/zsdonghao/research-and-coding)
+
