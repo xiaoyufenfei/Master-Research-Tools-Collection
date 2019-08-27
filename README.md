@@ -58,5 +58,5 @@
 
 ### Some tips for research and coding ！！！
 
-- [research-and-coding](https://github.com/zsdonghao/research-and-coding)
+- [科研工具](https://xiaoyufenfei.github.io/2019/08/27/%E7%A7%91%E7%A0%94%E5%B7%A5%E5%85%B7/#more)
 
