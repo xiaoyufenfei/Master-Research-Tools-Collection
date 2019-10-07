@@ -7,6 +7,7 @@
 - 在线制作Latex表格的网站神器！真正的所见即所得，支持代码与表格之间的无缝转换！更支持与Excel的复制粘贴，非常好用 [**tablesgenerator**](http://www.tablesgenerator.com/)
 - 识别手写的symbol然后给出相应的Latex代码并且给出需要include的package，识别的准确度很高 [**classify**](http://detexify.kirelabs.org/classify.html) 
 - 用Latex代码绘制精美神经网络结构图 [**PlotNeuralNet**](https://github.com/HarisIqbal88/PlotNeuralNet) 
+- Convert matplotlib figures to TikZ/PGFplots for smooth integration into LaTeX. [**tikzplotlib**](https://github.com/nschloe/tikzplotlib)
 - arXiv预印论文投稿Latex清理工具：去掉无关文件、注释、清理/转换图片 [**arXiv LaTeX Cleaner**](https://github.com/google-research/arxiv-latex-cleaner)
 - 一份基于NIPS修改的适用于上传预印本的Latex模板  [**arxiv-style**](https://github.com/kourgeorge/arxiv-style)
 - LaTeX相关资源大列表 [**awesome-LaTeX**](https://github.com/egeerardyn/awesome-LaTeX)
@@ -59,4 +60,8 @@
 ### Some tips for research and coding ！！！
 
 - [科研工具](https://xiaoyufenfei.github.io)
+
+#### Linux工具快速教程
+
+- [linuxtools_rst](https://github.com/me115/linuxtools_rst)
 
